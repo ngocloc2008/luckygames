@@ -1,1 +1,1 @@
-["username", "mhqbdicer", "dicerlocnguyen", "dattran0001"]
+["mhqbdicer", "dicerlocnguyen", "dattran0001"]
