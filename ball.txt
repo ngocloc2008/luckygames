@@ -1,2 +1,2 @@
-["mhqbdicer", "mhqbdiceplayer", "dattran0001"]
+["mhqbdicer", "mhqbdiceplayer", "dattran0001", "khoanguyen53", "khoanguyen54"]
 
